@@ -36,7 +36,7 @@ python -m scorecard selftest          # checks the checkers on your machine
 python -m scorecard run --agent "Hermes Agent" --model "qwen3-coder"
 ```
 
-On Windows, use `py` instead of `python` if needed.
+On macOS and Linux, type `python3` instead of `python`. On Windows, use `py` if `python` doesn't work.
 
 The run creates a fresh folder in `~/agent-scorecard-runs/`, walks you through the 5 prompts,
 and opens a report when it's done.

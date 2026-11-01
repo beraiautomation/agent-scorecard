@@ -25,7 +25,7 @@ Then confirm the checkers work on this machine:
 python -m scorecard selftest
 ```
 
-On Windows use `py` if `python` is not on PATH.
+On macOS and Linux use `python3`. On Windows use `py` if `python` is not on PATH.
 
 ## 2. Pick the mode
 
