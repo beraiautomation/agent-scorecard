@@ -2,7 +2,7 @@
 
 **Test any AI coding agent on your own computer. 5 real tasks, scored by code.**
 
-[![ci](https://github.com/YOUR-USERNAME/agent-scorecard/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR-USERNAME/agent-scorecard/actions/workflows/ci.yml)
+[![ci](https://github.com/beraiautomation/agent-scorecard/actions/workflows/ci.yml/badge.svg)](https://github.com/beraiautomation/agent-scorecard/actions/workflows/ci.yml)
 ![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-3776ab)
 ![Windows, macOS, Linux](https://img.shields.io/badge/runs%20on-Windows%20%7C%20macOS%20%7C%20Linux-6d28d9)
 ![No dependencies](https://img.shields.io/badge/dependencies-none-0f9f6e)
@@ -30,7 +30,7 @@ this model, do real work on my machine?** Agent Scorecard answers that in about 
 You need Python 3.9 or newer. There is nothing to install.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/agent-scorecard
+git clone https://github.com/beraiautomation/agent-scorecard
 cd agent-scorecard
 python -m scorecard selftest          # checks the checkers on your machine
 python -m scorecard run --agent "Hermes Agent" --model "qwen3-coder"

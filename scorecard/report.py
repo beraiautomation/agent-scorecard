@@ -4,7 +4,7 @@ from __future__ import annotations
 from html import escape
 from pathlib import Path
 
-REPO_URL = "https://github.com/YOUR-USERNAME/agent-scorecard"
+REPO_URL = "https://github.com/beraiautomation/agent-scorecard"
 
 CSS = """
 :root{--bg:#f7f6f3;--card:#fff;--ink:#1c1b22;--muted:#6b6878;--line:#e6e3ec;--pass:#0f9f6e;--pass-bg:#e5f6ef;

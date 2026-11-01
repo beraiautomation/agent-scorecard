@@ -14,7 +14,7 @@ checks mean an agent can't pass by gaming the visible tests.
 Look for a folder that contains `scorecard/` and `tasks/`. If there isn't one, clone it:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/agent-scorecard
+git clone https://github.com/beraiautomation/agent-scorecard
 cd agent-scorecard
 ```
 
