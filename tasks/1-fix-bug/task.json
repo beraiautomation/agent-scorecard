@@ -1,0 +1,8 @@
+{
+  "number": 1,
+  "id": "1-fix-bug",
+  "title": "Fix a bug",
+  "skill": "Debugging",
+  "summary": "Find and fix 3 bugs in a shopping-cart function.",
+  "prompt": "In the folder 1-fix-bug, cart.py has bugs. Fix cart.py so that all tests in test_cart.py pass. Don't change test_cart.py. Run the tests to check your work."
+}

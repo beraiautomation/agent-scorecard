@@ -1,0 +1,8 @@
+{
+  "number": 4,
+  "id": "4-csv-totals",
+  "title": "Totals from a CSV",
+  "skill": "Tool use",
+  "summary": "Filter and add up orders from a CSV file.",
+  "prompt": "Read 4-csv-totals/orders.csv. For each customer, add up the amounts of orders with status \"paid\" only. Write one line per customer and one total line to 4-csv-totals/results.txt."
+}

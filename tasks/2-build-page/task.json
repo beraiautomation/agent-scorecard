@@ -1,0 +1,8 @@
+{
+  "number": 2,
+  "id": "2-build-page",
+  "title": "Build a web page",
+  "skill": "Front-end",
+  "summary": "Build a one-page coffee shop site from a short brief.",
+  "prompt": "Read 2-build-page/brief.txt and build the website it describes. Save it as 2-build-page/index.html."
+}

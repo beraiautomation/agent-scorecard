@@ -1,0 +1,8 @@
+{
+  "number": 5,
+  "id": "5-refactor",
+  "title": "Refactor messy code",
+  "skill": "Code quality",
+  "summary": "Clean up a messy function without changing its output.",
+  "prompt": "Refactor 5-refactor/report.py so it is clean and easy to read. The output must stay exactly the same. Don't change test_report.py. Run test_report.py to check your work."
+}

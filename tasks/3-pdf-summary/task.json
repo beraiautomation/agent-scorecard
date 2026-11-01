@@ -1,0 +1,8 @@
+{
+  "number": 3,
+  "id": "3-pdf-summary",
+  "title": "Summarize a PDF",
+  "skill": "Reading",
+  "summary": "Summarize a 10-page report in 5 bullets with no made-up numbers.",
+  "prompt": "Read 3-pdf-summary/northwind_report.pdf and summarize it in exactly 5 bullet points. Use only facts from the PDF. Save the bullets to 3-pdf-summary/summary.txt."
+}

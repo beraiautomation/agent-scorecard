@@ -1,0 +1,10 @@
+Build a one-page website for a small coffee shop called "Bean There".
+Put everything in one file: index.html (CSS inside the file is fine).
+
+It must have these 4 sections, in this order:
+1. Header with the shop name and a short welcome line
+2. Menu with at least 4 drinks and their prices
+3. Opening hours for every day of the week
+4. Contact section with an address and a phone number
+
+It must look fine on a phone screen too.

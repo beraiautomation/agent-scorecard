@@ -1,0 +1,11 @@
+order_id,customer,amount,status
+1001,Ana,24.50,paid
+1002,Ben,12.00,paid
+1003,Ana,8.25,refunded
+1004,Chen,40.00,paid
+1005,Ben,15.75,paid
+1006,Dina,9.99,paid
+1007,Chen,22.10,refunded
+1008,Ana,31.00,paid
+1009,Dina,18.01,paid
+1010,Ben,5.25,paid
